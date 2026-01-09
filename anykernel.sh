@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Xdagore wen
+kernel.string=Kernel By HzzMonet✨
 do.devicecheck=0
 do.modules=1
 do.systemless=0
